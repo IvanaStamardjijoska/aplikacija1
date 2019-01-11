@@ -1,0 +1,16 @@
+PODS:
+  - MPCheckBox (0.1.3.1)
+
+DEPENDENCIES:
+  - MPCheckBox
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MPCheckBox
+
+SPEC CHECKSUMS:
+  MPCheckBox: a6b2abf4ed92f75f5bace8b64b7e5516afd4c9a1
+
+PODFILE CHECKSUM: 26a6fefcbb072ba758ec58dce2bee8117a253227
+
+COCOAPODS: 1.5.3
